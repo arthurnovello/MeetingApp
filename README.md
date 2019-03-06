@@ -3,7 +3,7 @@
 
 ### Objetivo
 
-Dentro de um ano, construir o modelo de projeto de um sistema de informação baseado em conceitos de inteligência artificial, para utilidade pública/consultorias que necessitarem de análises sobre assuntos de interesse selecionados pelo usuário, e com custo mínimo para a equipe desenvolvedora, uma vez que se trata de um projeto universitário. 
+Dentro de um ano, construir o modelo de projeto de um sistema de informação baseado em conceitos de inteligência artificial, para utilidade pública/consultorias que necessitarem de análises sobre assuntos de interesse selecionados pelo usuário, e com custo mínimo para a equipe desenvolvedora, uma vez que se trata de um projeto universitário.
 
 ### Por quê?
 
@@ -14,3 +14,7 @@ Ilustrado o cenário, propomos a ideia de desenvolver um software que será capa
 ### Como funciona?
 
 O Holmes receberá como entrada de dados um link ou tags de interesse (ainda a ser definido), filtrará os dados e realizará uma busca na internet com as informações, visando contabilizar se há semelhança dessas informações em portais relevantes da mídia, assim como fará uma análise gramatical do texto procurando erros de escrita (muito comuns em textos repassados em massa). Será feito um estudo de padrões que essas mensagens falsas obedecem, visando enriquecer a capacidade da IA para aumentar a eficiência em sua aplicação.
+
+# Licença
+
+**MIT.**
