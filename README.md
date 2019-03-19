@@ -9,5 +9,5 @@ O **Melter** é um aplicativo de encontros voltado para eventos. diferente dos a
 ---
 
 <p align="center"> 
-<img src="https://i.imgur.com/XQWgOlY.gif">
+<img src="https://media.giphy.com/media/paWlTPAZZu02RdeQar/giphy.gif">
 </p>
