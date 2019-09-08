@@ -1,0 +1,11 @@
+language: python
+python:
+  - "3.7"
+install:
+  - pip install -r requirements.txt
+script:
+  - pytest -s --cov-report term --cov backend/app backend/tests/test_app.py
+env:
+  - CODECOV_TOKEN="e2e6b2ae-d26a-4b60-b08c-863a6a921368"
+after_success:
+  - codecov
