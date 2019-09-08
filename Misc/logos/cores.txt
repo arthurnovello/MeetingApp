@@ -1,0 +1,5 @@
+Azul escuro: #93d0d1
+Azul médio: #a0dbdd
+Azul claro: #ace6e8
+Background escuro: #27282b
+Cinza fonte: #879392
